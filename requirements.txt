@@ -14,7 +14,7 @@ faiss-cpu
 groq
 cassio
 beautifulsoup4
-langchain-groq
+langchain_groq
 wikipedia
 arxiv
 langchainhub
@@ -24,3 +24,4 @@ langchain-objectbox
 arxiv
 wikipedia
 langchainhub
+sentence_transformers
